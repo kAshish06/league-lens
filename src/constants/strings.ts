@@ -1,0 +1,22 @@
+export const STRINGS = {
+  // Add hardcoded strings here
+  LOADING: "Loading...",
+  SOMETHING_WENT_WRONG: "Something went wrong.",
+  SEARCH_LEAGUES_PLACEHOLDER: "Search leagues...",
+  LEAGUE_SINGULAR: "league",
+  LEAGUE_PLURAL: "leagues",
+  NO_LEAGUES_FOUND: "No leagues found matching your search.",
+  ERROR_LOADING_LEAGUE_BADGE: "Error loading league badge",
+  NO_SEASONS_FOUND: "No seasons found",
+  NO_BADGE_AVAILABLE: "No Badge Available",
+  SEASON_BADGE_ALT_TEXT_PREFIX: "Season",
+  ALL_SEASONS_TITLE: "All Seasons",
+  ALL_SPORTS: "All Sports",
+  ERROR_BOUNDARY_TITLE: "Oops! Something went wrong",
+  ERROR_BOUNDARY_FALLBACK_MESSAGE: "An unexpected error occurred",
+  ERROR_BOUNDARY_REFRESH_BUTTON: "Refresh Page",
+  SEARCH_DEFAULT_PLACEHOLDER: "Search...",
+  CLEAR_INPUT_ICON: "✕",
+  NO_IMAGE_AVAILABLE: "No Image",
+  SEASON_BADGE_ALT_TEXT_SUFFIX: " Badge",
+};
