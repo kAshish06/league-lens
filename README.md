@@ -117,3 +117,4 @@ Here are some potential future enhancements for the application:
 
 - **Virtualization**: Implement list virtualization for large lists (e.g., in `LeagueList` or `LeagueDetails` seasons list) using libraries like `@tanstack/react-virtual` to render only visible items, significantly improving performance with large datasets.
 - **State Management with Zustand**: Introduce a state management library like `zustand` for handling global client state. While `react-query` handles server state, `zustand` can simplify managing UI state that needs to be accessed by multiple components, avoiding prop drilling and making state changes more predictable.
+- **Filter with URL**: Store searchTerm and selectedSport in URL query params. Use react-router to update and read query params.
